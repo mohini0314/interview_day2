@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    border: 3px solid rgb(123, 223, 207);
+    border-radius: 5px;
+
+}
+.que{
+    font-size:30px;
+    font-weight:bold;
+    color: bisque;
+}
+.ans{
+    font-size:20px;
+    font-weight:bold;
+    color: rgb(164, 230, 245);
+}
+.heading{
+    font: size 25px;
+    font-weight:bolder;
+    color: rgb(201, 156, 100);
+}
